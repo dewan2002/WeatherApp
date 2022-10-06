@@ -1,5 +1,5 @@
 # WeatherApp
-My first project on API addition in web app
+My first project on API addition in web app.
 Tech stack used: HTML CSS JAVASCRIPT
 Used weather API from openweathermap.org for getting weather details of various places.
 The features of the weather app is that when you open the application then it tell the weather of your current position and it can also tell the weather of any particular city.
